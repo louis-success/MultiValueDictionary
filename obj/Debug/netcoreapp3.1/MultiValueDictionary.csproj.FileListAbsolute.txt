@@ -1,0 +1,13 @@
+/Users/louisrajulaganathan/Projects/MultiValueDictionary/bin/Debug/netcoreapp3.1/MultiValueDictionary.deps.json
+/Users/louisrajulaganathan/Projects/MultiValueDictionary/bin/Debug/netcoreapp3.1/MultiValueDictionary.runtimeconfig.json
+/Users/louisrajulaganathan/Projects/MultiValueDictionary/bin/Debug/netcoreapp3.1/MultiValueDictionary.runtimeconfig.dev.json
+/Users/louisrajulaganathan/Projects/MultiValueDictionary/bin/Debug/netcoreapp3.1/MultiValueDictionary.dll
+/Users/louisrajulaganathan/Projects/MultiValueDictionary/bin/Debug/netcoreapp3.1/MultiValueDictionary.pdb
+/Users/louisrajulaganathan/Projects/MultiValueDictionary/bin/Debug/netcoreapp3.1/CommandLine.dll
+/Users/louisrajulaganathan/Projects/MultiValueDictionary/obj/Debug/netcoreapp3.1/MultiValueDictionary.AssemblyInfoInputs.cache
+/Users/louisrajulaganathan/Projects/MultiValueDictionary/obj/Debug/netcoreapp3.1/MultiValueDictionary.AssemblyInfo.cs
+/Users/louisrajulaganathan/Projects/MultiValueDictionary/obj/Debug/netcoreapp3.1/MultiValueDictionary.csproj.CoreCompileInputs.cache
+/Users/louisrajulaganathan/Projects/MultiValueDictionary/obj/Debug/netcoreapp3.1/MultiValueDictionary.csproj.CopyComplete
+/Users/louisrajulaganathan/Projects/MultiValueDictionary/obj/Debug/netcoreapp3.1/MultiValueDictionary.dll
+/Users/louisrajulaganathan/Projects/MultiValueDictionary/obj/Debug/netcoreapp3.1/MultiValueDictionary.pdb
+/Users/louisrajulaganathan/Projects/MultiValueDictionary/obj/Debug/netcoreapp3.1/MultiValueDictionary.genruntimeconfig.cache

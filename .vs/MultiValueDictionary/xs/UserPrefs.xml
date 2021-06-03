@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{B1274F34-A01A-4154-BA92-9D7229641B2E}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Commands/Clear.cs">
+    <Files>
+      <File FileName="Program.cs" Line="43" Column="10" />
+      <File FileName="Interfaces/ICommand.cs" Line="7" Column="44" />
+      <File FileName="MultipleValueDictionary.cs" Line="9" Column="103" />
+      <File FileName="Commands/Items.cs" Line="13" Column="15" />
+      <File FileName="Commands/Clear.cs" Line="10" Column="49" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="MultiValueDictionary" expanded="True">
+            <Node name="MultiValueDictionary" expanded="True">
+              <Node name="Commands" expanded="True">
+                <Node name="Clear.cs" selected="True" />
+              </Node>
+              <Node name="Common" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="MultiValueDictionary" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>MultiValueDictionary.Test/MultiValueDictionary.Test.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MultiValueDictionary PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/louisrajulaganathan/Projects/MultiValueDictionary/MultiValueDictionary.Test/Commands/AddTest.cs" relfile="MultiValueDictionary.Test/Commands/AddTest.cs" line="27" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CommandLineParser" Version="2.8.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Common\" />
+    <Folder Include="Interfaces\" />
+    <Folder Include="Commands\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Commands\Members %28copy%29.cs" />
+    <Compile Remove="Commands\Remove %28copy%29.cs" />
+    <Compile Remove="Commands\Keys %28copy%29.cs" />
+    <Compile Remove="Commands\Add %28copy%29.cs" />
+    <Compile Remove="Commands\Remove %28copy%29.cs" />
+    <Compile Remove="Commands\AllMembers %28copy%29.cs" />
+  </ItemGroup>
+</Project>

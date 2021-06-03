@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "THvyfPrkfJ1SV0aUA/0mJFm/2sNPklKtsXsRs0uMUcDTh5+hTJq6v0/hGhT4D8tnarYbOT9hCEeRIOBPY+9e6A==",
+  "success": true,
+  "projectFilePath": "/Users/louisrajulaganathan/Projects/MultiValueDictionary/MultiValueDictionary.csproj",
+  "expectedPackageFiles": [
+    "/Users/louisrajulaganathan/.nuget/packages/commandlineparser/2.8.0/commandlineparser.2.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
